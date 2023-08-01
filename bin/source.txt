@@ -1,0 +1,20 @@
+public static import ( x); # import statement
+public y, x1.2 : float;
+protected int y (a, b)
+{
+read x, y; print y, z, w;
+x, y, z := 10 + x, 20 or a ∗ b, (a + b ∗ (c));
+};
+private class y # class definition
+{
+public object ( y ) z (z, z)
+{
+if (((a and b))) a := b;
+do break while (500);
+};
+private public int y (a)
+{
+switch ( 5 ∗ 20 and x ) { a := b.12; };
+case a, w and z, 10.5 ∗ m;
+lambda ( x, y, z) { read a; print b;};
+}; }; 
